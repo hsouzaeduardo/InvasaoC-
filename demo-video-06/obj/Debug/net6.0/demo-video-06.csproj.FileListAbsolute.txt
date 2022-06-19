@@ -1,0 +1,15 @@
+C:\Users\Windows 10\OneDrive\InvasãoC#\demo-video-06\bin\Debug\net6.0\demo-video-06.exe
+C:\Users\Windows 10\OneDrive\InvasãoC#\demo-video-06\bin\Debug\net6.0\demo-video-06.deps.json
+C:\Users\Windows 10\OneDrive\InvasãoC#\demo-video-06\bin\Debug\net6.0\demo-video-06.runtimeconfig.json
+C:\Users\Windows 10\OneDrive\InvasãoC#\demo-video-06\bin\Debug\net6.0\demo-video-06.dll
+C:\Users\Windows 10\OneDrive\InvasãoC#\demo-video-06\bin\Debug\net6.0\demo-video-06.pdb
+C:\Users\Windows 10\OneDrive\InvasãoC#\demo-video-06\obj\Debug\net6.0\demo-video-06.csproj.AssemblyReference.cache
+C:\Users\Windows 10\OneDrive\InvasãoC#\demo-video-06\obj\Debug\net6.0\demo-video-06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\OneDrive\InvasãoC#\demo-video-06\obj\Debug\net6.0\demo-video-06.AssemblyInfoInputs.cache
+C:\Users\Windows 10\OneDrive\InvasãoC#\demo-video-06\obj\Debug\net6.0\demo-video-06.AssemblyInfo.cs
+C:\Users\Windows 10\OneDrive\InvasãoC#\demo-video-06\obj\Debug\net6.0\demo-video-06.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\OneDrive\InvasãoC#\demo-video-06\obj\Debug\net6.0\demo-video-06.dll
+C:\Users\Windows 10\OneDrive\InvasãoC#\demo-video-06\obj\Debug\net6.0\refint\demo-video-06.dll
+C:\Users\Windows 10\OneDrive\InvasãoC#\demo-video-06\obj\Debug\net6.0\demo-video-06.pdb
+C:\Users\Windows 10\OneDrive\InvasãoC#\demo-video-06\obj\Debug\net6.0\demo-video-06.genruntimeconfig.cache
+C:\Users\Windows 10\OneDrive\InvasãoC#\demo-video-06\obj\Debug\net6.0\ref\demo-video-06.dll
