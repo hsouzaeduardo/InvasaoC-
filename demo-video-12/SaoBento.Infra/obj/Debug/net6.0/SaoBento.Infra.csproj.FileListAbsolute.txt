@@ -1,0 +1,12 @@
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-12\SaoBento.Infra\bin\Debug\net6.0\SaoBento.Infra.deps.json
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-12\SaoBento.Infra\bin\Debug\net6.0\SaoBento.Infra.dll
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-12\SaoBento.Infra\bin\Debug\net6.0\SaoBento.Infra.pdb
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-12\SaoBento.Infra\obj\Debug\net6.0\SaoBento.Infra.csproj.AssemblyReference.cache
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-12\SaoBento.Infra\obj\Debug\net6.0\SaoBento.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-12\SaoBento.Infra\obj\Debug\net6.0\SaoBento.Infra.AssemblyInfoInputs.cache
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-12\SaoBento.Infra\obj\Debug\net6.0\SaoBento.Infra.AssemblyInfo.cs
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-12\SaoBento.Infra\obj\Debug\net6.0\SaoBento.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-12\SaoBento.Infra\obj\Debug\net6.0\SaoBento.Infra.dll
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-12\SaoBento.Infra\obj\Debug\net6.0\refint\SaoBento.Infra.dll
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-12\SaoBento.Infra\obj\Debug\net6.0\SaoBento.Infra.pdb
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-12\SaoBento.Infra\obj\Debug\net6.0\ref\SaoBento.Infra.dll
