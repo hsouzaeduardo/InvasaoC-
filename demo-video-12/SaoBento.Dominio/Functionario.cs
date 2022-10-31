@@ -1,9 +1,6 @@
 ﻿namespace SaoBento.Dominio;
-public class Functionario
+public class Functionario : EntidadeBase
 {
-
-
-
     public Functionario(string nome, DateTime dataNascimento, string cargo, decimal salario, string departamento)
     {
         Nome = nome;
@@ -32,5 +29,6 @@ public class Functionario
 
         }
     }
-
+    public decimal SalarioAnual { get => Salario * 13.3m; }   
+    
 }

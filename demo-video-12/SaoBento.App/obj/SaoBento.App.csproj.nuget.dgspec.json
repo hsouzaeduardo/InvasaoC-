@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Windows 10\\OneDrive\\InvasãoC#\\Demos\\InvasaoC-\\demo-video-12\\SaoBento.Infra\\SaoBento.Infra.csproj": {}
+    "C:\\Users\\Windows 10\\OneDrive\\InvasãoC#\\Demos\\InvasaoC-\\demo-video-12\\SaoBento.App\\SaoBento.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Windows 10\\OneDrive\\InvasãoC#\\Demos\\InvasaoC-\\demo-video-12\\SaoBento.Infra\\SaoBento.Infra.csproj": {
+    "C:\\Users\\Windows 10\\OneDrive\\InvasãoC#\\Demos\\InvasaoC-\\demo-video-12\\SaoBento.App\\SaoBento.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Windows 10\\OneDrive\\InvasãoC#\\Demos\\InvasaoC-\\demo-video-12\\SaoBento.Infra\\SaoBento.Infra.csproj",
-        "projectName": "SaoBento.Infra",
-        "projectPath": "C:\\Users\\Windows 10\\OneDrive\\InvasãoC#\\Demos\\InvasaoC-\\demo-video-12\\SaoBento.Infra\\SaoBento.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\Windows 10\\OneDrive\\InvasãoC#\\Demos\\InvasaoC-\\demo-video-12\\SaoBento.App\\SaoBento.App.csproj",
+        "projectName": "SaoBento.App",
+        "projectPath": "C:\\Users\\Windows 10\\OneDrive\\InvasãoC#\\Demos\\InvasaoC-\\demo-video-12\\SaoBento.App\\SaoBento.App.csproj",
         "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Windows 10\\OneDrive\\InvasãoC#\\Demos\\InvasaoC-\\demo-video-12\\SaoBento.Infra\\obj\\",
+        "outputPath": "C:\\Users\\Windows 10\\OneDrive\\InvasãoC#\\Demos\\InvasaoC-\\demo-video-12\\SaoBento.App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,8 +46,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -56,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
