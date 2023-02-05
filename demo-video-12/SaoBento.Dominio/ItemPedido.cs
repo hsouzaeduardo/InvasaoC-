@@ -16,12 +16,12 @@ namespace SaoBento.Dominio
             ValorUnitario = valorUnitario;
             Produto = produto;
         }
-        public Produto Produto { get; set; }
+        public Produto Produto { get; private set; }
         
-        public Pedido Pedido { get; set; }
-        public int Quantidade { get; set; }
-        public string Descricao { get; set; }
-        public decimal ValorUnitario { get; set; }
+        public Pedido Pedido { get; private set; }
+        public int Quantidade { get; private set; }
+        public string Descricao { get; private set; }
+        public decimal ValorUnitario { get; private set; }
 
         public decimal ValorTotal
         {

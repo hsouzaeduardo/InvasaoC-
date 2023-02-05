@@ -1,0 +1,15 @@
+F:\INVASAOC#\InvasaoC-\demo-video-14\bin\Debug\net6.0\demo-video-14.exe
+F:\INVASAOC#\InvasaoC-\demo-video-14\bin\Debug\net6.0\demo-video-14.deps.json
+F:\INVASAOC#\InvasaoC-\demo-video-14\bin\Debug\net6.0\demo-video-14.runtimeconfig.json
+F:\INVASAOC#\InvasaoC-\demo-video-14\bin\Debug\net6.0\demo-video-14.dll
+F:\INVASAOC#\InvasaoC-\demo-video-14\bin\Debug\net6.0\demo-video-14.pdb
+F:\INVASAOC#\InvasaoC-\demo-video-14\obj\Debug\net6.0\demo-video-14.csproj.AssemblyReference.cache
+F:\INVASAOC#\InvasaoC-\demo-video-14\obj\Debug\net6.0\demo-video-14.GeneratedMSBuildEditorConfig.editorconfig
+F:\INVASAOC#\InvasaoC-\demo-video-14\obj\Debug\net6.0\demo-video-14.AssemblyInfoInputs.cache
+F:\INVASAOC#\InvasaoC-\demo-video-14\obj\Debug\net6.0\demo-video-14.AssemblyInfo.cs
+F:\INVASAOC#\InvasaoC-\demo-video-14\obj\Debug\net6.0\demo-video-14.csproj.CoreCompileInputs.cache
+F:\INVASAOC#\InvasaoC-\demo-video-14\obj\Debug\net6.0\demo-video-14.dll
+F:\INVASAOC#\InvasaoC-\demo-video-14\obj\Debug\net6.0\refint\demo-video-14.dll
+F:\INVASAOC#\InvasaoC-\demo-video-14\obj\Debug\net6.0\demo-video-14.pdb
+F:\INVASAOC#\InvasaoC-\demo-video-14\obj\Debug\net6.0\demo-video-14.genruntimeconfig.cache
+F:\INVASAOC#\InvasaoC-\demo-video-14\obj\Debug\net6.0\ref\demo-video-14.dll

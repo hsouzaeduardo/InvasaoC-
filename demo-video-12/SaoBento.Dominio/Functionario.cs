@@ -9,12 +9,12 @@ public class Functionario : EntidadeBase
         Salario = salario;
         Departamento = departamento;
     }
-    public string Nome { get; set; }
-    public DateTime DataNascimento { get; set; }
+    public string Nome { get; private set; }
+    public DateTime DataNascimento { get; private  set; }
     //Salario anual para descobrir o mensal basta dividir por 13.3
-    public decimal Salario { get; set; }
-    public string Cargo { get; set; }
-    public string Departamento { get; set; }
+    public decimal Salario { get; private  set; }
+    public string Cargo { get; private set; }
+    public string Departamento { get; private set; }
     public int Idade
     {
         get
