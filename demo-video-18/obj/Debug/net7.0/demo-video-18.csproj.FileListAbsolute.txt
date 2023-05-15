@@ -1,0 +1,15 @@
+C:\Temp\InvC\InvasaoC-\demo-video-18\bin\Debug\net7.0\demo-video-18.exe
+C:\Temp\InvC\InvasaoC-\demo-video-18\bin\Debug\net7.0\demo-video-18.deps.json
+C:\Temp\InvC\InvasaoC-\demo-video-18\bin\Debug\net7.0\demo-video-18.runtimeconfig.json
+C:\Temp\InvC\InvasaoC-\demo-video-18\bin\Debug\net7.0\demo-video-18.dll
+C:\Temp\InvC\InvasaoC-\demo-video-18\bin\Debug\net7.0\demo-video-18.pdb
+C:\Temp\InvC\InvasaoC-\demo-video-18\obj\Debug\net7.0\demo-video-18.csproj.AssemblyReference.cache
+C:\Temp\InvC\InvasaoC-\demo-video-18\obj\Debug\net7.0\demo-video-18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\InvC\InvasaoC-\demo-video-18\obj\Debug\net7.0\demo-video-18.AssemblyInfoInputs.cache
+C:\Temp\InvC\InvasaoC-\demo-video-18\obj\Debug\net7.0\demo-video-18.AssemblyInfo.cs
+C:\Temp\InvC\InvasaoC-\demo-video-18\obj\Debug\net7.0\demo-video-18.csproj.CoreCompileInputs.cache
+C:\Temp\InvC\InvasaoC-\demo-video-18\obj\Debug\net7.0\demo-video-18.dll
+C:\Temp\InvC\InvasaoC-\demo-video-18\obj\Debug\net7.0\refint\demo-video-18.dll
+C:\Temp\InvC\InvasaoC-\demo-video-18\obj\Debug\net7.0\demo-video-18.pdb
+C:\Temp\InvC\InvasaoC-\demo-video-18\obj\Debug\net7.0\demo-video-18.genruntimeconfig.cache
+C:\Temp\InvC\InvasaoC-\demo-video-18\obj\Debug\net7.0\ref\demo-video-18.dll
