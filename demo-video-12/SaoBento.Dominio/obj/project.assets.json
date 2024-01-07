@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Windows 10\\OneDrive\\InvasãoC#\\Demos\\InvasaoC-\\demo-video-12\\SaoBento.Dominio\\SaoBento.Dominio.csproj",
+      "projectUniqueName": "C:\\Temp\\InvasaoC-\\demo-video-12\\SaoBento.Dominio\\SaoBento.Dominio.csproj",
       "projectName": "SaoBento.Dominio",
-      "projectPath": "C:\\Users\\Windows 10\\OneDrive\\InvasãoC#\\Demos\\InvasaoC-\\demo-video-12\\SaoBento.Dominio\\SaoBento.Dominio.csproj",
+      "projectPath": "C:\\Temp\\InvasaoC-\\demo-video-12\\SaoBento.Dominio\\SaoBento.Dominio.csproj",
       "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Windows 10\\OneDrive\\InvasãoC#\\Demos\\InvasaoC-\\demo-video-12\\SaoBento.Dominio\\obj\\",
+      "outputPath": "C:\\Temp\\InvasaoC-\\demo-video-12\\SaoBento.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/CNHISASoftwareFactory/66e1d818-9d0c-462b-80fe-944ff51500b3/_packaging/CNHIPackages/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -62,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
