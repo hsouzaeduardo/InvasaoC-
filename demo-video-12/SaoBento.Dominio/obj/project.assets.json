@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Temp\\InvasaoC-\\demo-video-12\\SaoBento.Dominio\\SaoBento.Dominio.csproj",
+      "projectUniqueName": "C:\\Temp\\invasao\\InvasaoC-\\demo-video-12\\SaoBento.Dominio\\SaoBento.Dominio.csproj",
       "projectName": "SaoBento.Dominio",
-      "projectPath": "C:\\Temp\\InvasaoC-\\demo-video-12\\SaoBento.Dominio\\SaoBento.Dominio.csproj",
+      "projectPath": "C:\\Temp\\invasao\\InvasaoC-\\demo-video-12\\SaoBento.Dominio\\SaoBento.Dominio.csproj",
       "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-      "outputPath": "C:\\Temp\\InvasaoC-\\demo-video-12\\SaoBento.Dominio\\obj\\",
+      "outputPath": "C:\\Temp\\invasao\\InvasaoC-\\demo-video-12\\SaoBento.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",

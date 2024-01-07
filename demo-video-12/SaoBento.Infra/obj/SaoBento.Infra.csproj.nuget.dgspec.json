@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Temp\\InvasaoC-\\demo-video-12\\SaoBento.Infra\\SaoBento.Infra.csproj": {}
+    "C:\\Temp\\invasao\\InvasaoC-\\demo-video-12\\SaoBento.Infra\\SaoBento.Infra.csproj": {}
   },
   "projects": {
-    "C:\\Temp\\InvasaoC-\\demo-video-12\\SaoBento.Infra\\SaoBento.Infra.csproj": {
+    "C:\\Temp\\invasao\\InvasaoC-\\demo-video-12\\SaoBento.Infra\\SaoBento.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Temp\\InvasaoC-\\demo-video-12\\SaoBento.Infra\\SaoBento.Infra.csproj",
+        "projectUniqueName": "C:\\Temp\\invasao\\InvasaoC-\\demo-video-12\\SaoBento.Infra\\SaoBento.Infra.csproj",
         "projectName": "SaoBento.Infra",
-        "projectPath": "C:\\Temp\\InvasaoC-\\demo-video-12\\SaoBento.Infra\\SaoBento.Infra.csproj",
+        "projectPath": "C:\\Temp\\invasao\\InvasaoC-\\demo-video-12\\SaoBento.Infra\\SaoBento.Infra.csproj",
         "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-        "outputPath": "C:\\Temp\\InvasaoC-\\demo-video-12\\SaoBento.Infra\\obj\\",
+        "outputPath": "C:\\Temp\\invasao\\InvasaoC-\\demo-video-12\\SaoBento.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",

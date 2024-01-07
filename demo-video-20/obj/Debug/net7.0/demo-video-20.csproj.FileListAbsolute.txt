@@ -1,0 +1,14 @@
+C:\Temp\invasao\InvasaoC-\demo-video-20\bin\Debug\net7.0\demo-video-20.exe
+C:\Temp\invasao\InvasaoC-\demo-video-20\bin\Debug\net7.0\demo-video-20.deps.json
+C:\Temp\invasao\InvasaoC-\demo-video-20\bin\Debug\net7.0\demo-video-20.runtimeconfig.json
+C:\Temp\invasao\InvasaoC-\demo-video-20\bin\Debug\net7.0\demo-video-20.dll
+C:\Temp\invasao\InvasaoC-\demo-video-20\bin\Debug\net7.0\demo-video-20.pdb
+C:\Temp\invasao\InvasaoC-\demo-video-20\obj\Debug\net7.0\demo-video-20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\invasao\InvasaoC-\demo-video-20\obj\Debug\net7.0\demo-video-20.AssemblyInfoInputs.cache
+C:\Temp\invasao\InvasaoC-\demo-video-20\obj\Debug\net7.0\demo-video-20.AssemblyInfo.cs
+C:\Temp\invasao\InvasaoC-\demo-video-20\obj\Debug\net7.0\demo-video-20.csproj.CoreCompileInputs.cache
+C:\Temp\invasao\InvasaoC-\demo-video-20\obj\Debug\net7.0\demo-video-20.dll
+C:\Temp\invasao\InvasaoC-\demo-video-20\obj\Debug\net7.0\refint\demo-video-20.dll
+C:\Temp\invasao\InvasaoC-\demo-video-20\obj\Debug\net7.0\demo-video-20.pdb
+C:\Temp\invasao\InvasaoC-\demo-video-20\obj\Debug\net7.0\demo-video-20.genruntimeconfig.cache
+C:\Temp\invasao\InvasaoC-\demo-video-20\obj\Debug\net7.0\ref\demo-video-20.dll
